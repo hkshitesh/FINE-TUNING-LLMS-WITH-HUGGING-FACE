@@ -4,4 +4,4 @@ https://colab.research.google.com/drive/1T_qrLIdqmD9Wie6vLEMBDlG9Wit5Fub-?usp=sh
 
 ## Lab Exercise 2: RAG Implementation
 
-https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
+https://colab.research.google.com/drive/1ddFJTHoirCScZZkN-84We29X-4cEuKvG?usp=sharing
