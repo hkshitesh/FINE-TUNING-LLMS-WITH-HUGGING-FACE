@@ -1,0 +1,7 @@
+[
+  {
+    "instruction": "Summarize the following text",
+    "input": "Parameter Efficient Fine-Tuning techniques like LoRA allow training large models by updating only a small subset of parameters.",
+    "output": "LoRA enables efficient fine-tuning by updating only selected model parameters."
+  }
+]

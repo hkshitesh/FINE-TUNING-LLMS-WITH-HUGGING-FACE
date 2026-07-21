@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "Summarize the following text",
+    "input": "Large Language Models are deep learning models trained on massive datasets. They use transformer architectures and are capable of understanding and generating human-like text.",
+    "output": "Large Language Models use transformer architectures and large datasets to understand and generate human-like text."
+  },
+  {
+    "instruction": "Summarize the following text",
+    "input": "Transformers rely on self-attention mechanisms to process input sequences in parallel, making them more efficient than traditional recurrent neural networks.",
+    "output": "Transformers use self-attention to process sequences efficiently in parallel."
+  },
+  {
+    "instruction": "Summarize the following text",
+    "input": "Fine-tuning adapts a pre-trained language model to a specific task by training it on a smaller, task-specific dataset.",
+    "output": "Fine-tuning customizes a pre-trained model for a specific task using a smaller dataset."
+  }
+]
